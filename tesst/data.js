@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-street-view-360",
-      "name": "Street View 360",
+      "id": "0-步道1",
+      "name": "步道1",
       "levels": [
         {
           "tileSize": 256,
@@ -33,14 +33,14 @@ var APP_DATA = {
           "yaw": 0.5451913574111646,
           "pitch": 0.02012743148330287,
           "rotation": 0.7853981633974483,
-          "target": "1-street-view-361"
+          "target": "1-步道2"
         }
       ],
       "infoHotspots": []
     },
     {
-      "id": "1-street-view-361",
-      "name": "Street View 361",
+      "id": "1-步道2",
+      "name": "步道2",
       "levels": [
         {
           "tileSize": 256,
@@ -71,7 +71,7 @@ var APP_DATA = {
           "yaw": -2.945215615634604,
           "pitch": 0.20099916180725685,
           "rotation": 0,
-          "target": "0-street-view-360"
+          "target": "0-步道1"
         }
       ],
       "infoHotspots": []
