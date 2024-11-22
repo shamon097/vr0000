@@ -214,7 +214,14 @@ var APP_DATA = {
           "target": "3-2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+	  {
+  "yaw": -0.958010697272524,
+  "pitch": -0.18399278306297262,
+  "title": "嗨",
+  "text": "恭喜你找到這片google地圖上為數不多的夜景。"
+}
+]
     }
   ],
   "name": "Project Title",
